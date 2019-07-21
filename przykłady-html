@@ -1,0 +1,10 @@
+<a href="http:/onet.pl" target="_blank" title="abc">TEKST</a> * hiperłącze
+target="_blank" otworzy nam nowe okno przeglodarki
+title ="abc" gdy najedziemy  myszką tu na TEKST wyswietli nam się abc
+
+
+<img width="50" height="40" src="nazwa.jpg"/>
+width -szerkosc , height wyskosc , src zródło
+można pominąć atrybuty width i height i wpisać bez nich
+<a href ="adres strony www" target="_blank" title="cos tam"><img src="nazwa.jpg"/>
+
